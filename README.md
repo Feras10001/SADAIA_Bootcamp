@@ -22,7 +22,8 @@ The following libraries are included:
 ----------------------------------------------------------
 
 **Files in the repository:**
-* [SADAIA Bootcamp Final Project]: containes the full updated code
+* [SADAIA Bootcamp Final Project updated with deep learning section]: **contains the code + deep learning section**
+* [SADAIA Bootcamp Final Project]: containes the full original code without deep learning section
 * [Project Report]: full report of the project
 * [Analyzing and Predicting Successful Kickstarter Projects]: short presentation of the project
 * [Proposal]: Initial ideas and proposal of the project
